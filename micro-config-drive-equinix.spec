@@ -1,6 +1,6 @@
 Name     : micro-config-drive-equinix
 Version  : 1
-Release  : 1
+Release  : 2
 Summary  : Start Equinix cloud-config user data helper at boot time
 Group    : Development/Tools
 License  : GPL-3.0
